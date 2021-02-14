@@ -1,0 +1,71 @@
+@media (min-width: 768px ) {
+
+    body {
+        width: 480px;
+    }
+   
+nav , .i {
+    height: 100px;
+    width: 960px;
+}
+
+#b {
+    width: 200px;
+    height: 600px;
+  
+   float: left;
+}
+
+
+.column {
+    float:right;
+    width: 50%;
+    height: 200px;
+
+    
+  }
+
+  #d , #c  {
+   
+        width: 380px;
+        height: 200px;
+    
+  }
+
+  #d , #c  , #b {
+    display: inline-block;
+
+  }
+
+  /* .row-ef , .row-gh{
+   
+    height:250px ;
+    text-align: center;
+    float : right;
+    width:25%;
+   
+ } */
+
+ .row-ef  {
+    float:right;
+    width: 50%;
+    height: 200px;
+
+ }
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

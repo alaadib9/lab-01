@@ -1,0 +1,13 @@
+
+body{
+    
+    text-align: center;
+   
+}
+
+nav {
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 75px;
+}
