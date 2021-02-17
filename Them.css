@@ -1,44 +1,48 @@
-#b {
+#sidebar {
     background-color: rgb(226, 203, 248);
   
 }
-#c {
+#content1 {
     background-color: rgb(215, 247, 215);
     
 }
-#d {
+#content2 {
     background-color: rgb(255, 237, 213);
    
 
 
 }
-#row {
+#content3  {
     background-color: rgb(245, 182, 159);
    
 
 }
-#g{
-    background-color: rgb(226, 123, 144);
+#content4{
+    background-color: rgb(226, 142, 159);
    
 
 }
 
-.final {
-    background-color: rgb(99, 71, 2);
+#content5{
+    background-color: rgb(217, 167, 230);
     
 
 }
 
-nav {
+footer {
     background-color: rgb(215, 215, 240);
 
 }
-.row-ef {
-    background-color: rgb(192, 131, 131);
- 
-    
- }
 
- .row-gh {
-     background-color: darkslategray;
- }
+
+nav {
+    background-color: rgb(236, 209, 199);
+}
+
+main {
+    background-color: rgb(203, 239, 248);
+}
+
+footer {
+    background-color: rgb(194, 185, 161);
+}
